@@ -1,0 +1,20 @@
+﻿{
+  "author": "Banyc <>",
+  "classifications": [ "Console" ],
+  "name": "Console Host.",
+  "tags": {
+    "language": "C#"
+  },
+  "identity": "ConsoleHost",
+  "shortName": "console.h",
+  "sourceName": "ConsoleHost",
+  "symbols": {
+    "title": {
+      "type": "parameter",
+      "datatype": "string",
+      "replaces": "CONSOLE-TITLE",
+      "defaultValue": "Console Host Boilerplate",
+      "description": "Title that shows up in header of console."
+    }
+  }
+}
