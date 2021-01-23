@@ -21,9 +21,9 @@ namespace ConsoleHost
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args).ConfigureServices(ConfigureServices);
 
-        private static void ConfigureServices(IServiceCollection services)
+        private static void ConfigureServices(HostBuilderContext context, IServiceCollection services)
         {
-
+            
         }
     }
 }
