@@ -1,6 +1,6 @@
 ﻿{
   "author": "Banyc <>",
-  "classifications": [ "Console" ],
+  "classifications": [ "Common/Console" ],
   "name": "Console Host.",
   "tags": {
     "language": "C#"
